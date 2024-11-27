@@ -7,7 +7,7 @@ void Directory::init(std::string path)
 
 void Directory::add(Object & object)
 {
-
+    std::cout << "There is nothing here but I implemented this somewhere";
 }
 
 void Directory::move(Object & object)

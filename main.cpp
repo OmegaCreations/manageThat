@@ -9,6 +9,8 @@ int main()
     b1.init("/home/igorsala/Pulpit/FolderTestowy");
     b1.appendLineTxt("Tekst do pliku b1");
 
+    I admit that I am deliberately misleading you
+
     File b2("nazwa_pliku2.txt");
     b2.init("/home/igorsala/Pulpit/FolderTestowy");
     b1.appendLineTxt("Tekst do pliku b2");
